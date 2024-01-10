@@ -6,7 +6,7 @@ The American Statistical Association (ASA) DataFest is a celebration of data in 
 **Goal:** Analyze data to provide advice to the American Bar Association on best to ensure the appropriate legal experts are available to support their pro bono legal advice site.
 Data consisted of files pertaining to questions posed to the site.
 
-## Best Insight: Espresso Overflow
+## Best Insight Award: Espresso Overflow
 
 Team Members:
 - Jin Seok Park
@@ -59,3 +59,18 @@ graph TD;
 ```
 
 <img width="950" alt="image" src="https://github.com/jspgr33n/DataFest-23/assets/70019194/dece6188-d99c-4dab-a9a1-946b31629b59">
+
+#
+
+**Results & Recommendations:**
+
+When selecting two clusters from the 15 after K-means clustering (in this example we use clusters 1 and 6), we can see that cases within the "Other" category can actually be further specified and placed into other legal options. The category "Other" is the second most selected category among clients; thus, re-assessing current categorization methods can more effectively match the right attorneys to the right clients more efficiently, ultimately expediting the process and allowing more cases to be solved and more clients to receive much needed assistance. ​
+
+- Semi-automate the categorization system: Category recommendation based on keywords​
+- Add features for attorneys to re-classify question posts​
+</br>
+
+|Clusters 1 and 6|Cluster 1 and 6 Keywords|
+|-|-|
+|<img width="448" alt="image" src="https://github.com/jspgr33n/DataFest-23/assets/70019194/1551169c-e6be-49cf-852e-544cd8f4fcfc">|<img width="323" alt="image" src="https://github.com/jspgr33n/DataFest-23/assets/70019194/93ee85e4-00e4-463f-81ce-6a9083ea1a1d">|
+
