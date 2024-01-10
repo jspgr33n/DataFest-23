@@ -15,7 +15,7 @@ Team Members:
 - Anusha Kurapati
 
 **Background:**
-</br>
+
 The American Bar Association (ABA) Free Legal Answers is an important part of making our justice system both equitable and accessible. By matching clients with attorneys on a pro-bono basis, low-income clients can obtain the services that their wealthier counterparts are able to afford, ultimately preventing them from legal issues that may arise. Thus, we understand that filling out accurate information and efficiently matching these clients to the right attorneys is a significant process that can help a plethora of individuals. The purpose of our approach is to examine why the category "Other" is the second most selected category despite there being 9 other legal options, and accurately depict how we can make this matching process more efficient through machine learning.​
 > Note: Attorneys can sign up to receive notifications when questions are posted in their areas of interest as well as sort by subject matter and for questions that are submitted by those with senior or veteran status. Clients self-select categories. Categories and subcategories act as ‘tags’ to match cases to attorneys with relevant expertise
 
