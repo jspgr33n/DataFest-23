@@ -60,6 +60,12 @@ graph TD;
     B --> C[Unsupervised learning];
 ```
 
+```mermaid
+graph TD;
+    A[USAR_SERVICE_ALL] --> B[USAR_SERVICE_LINE_ALL];
+    B --> C[USAR_SERVICE_PART_ALL];
+```
+
 <img width="950" alt="image" src="https://github.com/jspgr33n/DataFest-23/assets/70019194/dece6188-d99c-4dab-a9a1-946b31629b59">
 
 #
